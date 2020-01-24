@@ -1,3 +1,4 @@
 - Membuat sebuah web untuk startup
 - membuka usaha dengan teman
+- Membangun apa yang telah dikonsepkan
 - memelola web yang menjadi usaha
