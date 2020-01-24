@@ -2,3 +2,4 @@
 - membuka usaha dengan teman
 - Membangun apa yang telah dikonsepkan
 - memelola web yang menjadi usaha
+- melakukan optimasi pada web
